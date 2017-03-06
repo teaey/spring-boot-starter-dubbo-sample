@@ -10,7 +10,7 @@
     </parent>
     <groupId>cn.teaey.sprintboot.test</groupId>
     <artifactId>dubbo-starter</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <modules>
         <module>api</module>
         <module>server</module>
