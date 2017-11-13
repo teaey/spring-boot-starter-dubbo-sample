@@ -1,4 +1,4 @@
-package cn.teaey.sprintboot.test;
+package cn.teaey.springboot.test;
 
 import com.alibaba.dubbo.config.annotation.Service;
 
